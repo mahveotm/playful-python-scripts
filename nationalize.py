@@ -1,6 +1,6 @@
 print("""
-        A python script that uses your name to guess your age,
-        API derived from Agify.io. Essentially for tests and fun
+        A python script that uses your name to guess your Nationality,
+        API derived from Nationalize.io. Essentially for tests and fun
 """)
 
 
